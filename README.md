@@ -1,4 +1,4 @@
-# Results and reports for competitive audits that I participated
+# Reports for competitive audits
 
 **Highlights**:
 
