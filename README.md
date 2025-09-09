@@ -2,4 +2,4 @@
 
 **Highlights**:
 
-Chainlink: Top 3 in the leaderboard (with 1584 total participants)
+Chainlink-2025-06: Top 3 in the leaderboard (with 1584 total participants)
