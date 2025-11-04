@@ -4,10 +4,10 @@
 
 **Program:** Chainlink Reward https://github.com/code-423n4/2025-06-chainlink
 
-**Rank:** 3rd over 1584 participants; $28,965.72 bounties; Top Gatherer
+**Rank:** 3/1584; $28,965.72 bounties
 
 ![alt text](image.png)
 
-**Vulnerabilities Found:** Medium * 2 (verified, reports kept private as requested by Chainlink)
+**Vulnerabilities Found:** Medium * 2 (reports kept private as requested by Chainlink)
 
 
