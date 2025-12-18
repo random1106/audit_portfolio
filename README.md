@@ -2,8 +2,22 @@
 
 All the findings have verified by the judges on code4rena
 
-Chainlink 2025-06: 2 Medium, $28,965.72 bounties
+### Chainlink 2025-06
 
-GTE-CLOB 2025-07: 2 Medium
+Found: 2 Medium
+bounties: 28965.72 USDC 
+Rank: 3
 
-GTE-PERP&LAUNCHPAD 2025-08: 1 High, 1 Medium
+### GTE-CLOB 2025-07
+
+Found: 2 Medium
+bounties: 5.74 USDC
+Rank: 45
+
+### Megapot 2025-08
+
+Found: 1 High
+bounties: 116.42 USDC
+Rank: 26
+
+
